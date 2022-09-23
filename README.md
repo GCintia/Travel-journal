@@ -1,4 +1,4 @@
-# cGNnJpHG
+//Mobile/desktop design soon.
 
 Quick start:
 
